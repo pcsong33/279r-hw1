@@ -43,7 +43,7 @@ Check installed versions:
    ```
    
 After cloning the repo and downloading the necessary packages, run 
-    ```sh
-    $ npm start
-    ```
+```sh
+npm start
+```
 and navigate to localhost:3000 to see the page locally.
