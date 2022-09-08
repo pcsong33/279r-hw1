@@ -42,3 +42,8 @@ Check installed versions:
    6.14.4
    ```
    
+After cloning the repo and downloading the necessary packages, run 
+    ```sh
+    $ npm start
+    ```
+and navigate to localhost:3000 to see the page locally.
