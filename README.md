@@ -1,9 +1,6 @@
 ## A To Do Web App using MongoDB, Node.js
 
-![Page Demo](imgs/demo1.png)
-![Page Demo](imgs/demo2.png)
-
-This project is adapted from a tutorial by [Diogo Pinheiro]([https://github.com/dhanishgajjar/js-to-do](https://medium.com/@diogo.fg.pinheiro/simple-to-do-list-app-with-node-js-and-mongodb-chapter-1-c645c7a27583)). In order to run the project locally, make sure that you have Node.js (and NPM) intalled.
+This project is adapted from a tutorial by [Diogo Pinheiro](https://medium.com/@diogo.fg.pinheiro/simple-to-do-list-app-with-node-js-and-mongodb-chapter-1-c645c7a27583). In order to run the project locally, make sure that you have Node.js (and NPM) intalled.
 
 ### How to install Node.js
 
